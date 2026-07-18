@@ -1,5 +1,3 @@
-
-
 class STimple
 {
     public  int top = -1;
